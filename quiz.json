@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of great sporting personalities.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the fastest man alive?",
+      "answers": ["Bolt", "Lewis", "Owens"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who has won the most Grand Slams in tennis?",
+      "answers": ["Nadal", "Federer", "Djokovic"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is known as the 'King of Football'?",
+      "answers": ["Pele", "Maradona", "Messi"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is the NBA all-time top scorer?",
+      "answers": ["Abdul", "Jordan", "Bryant"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who won 8 golds in 2008 Olympics?",
+      "answers": ["Phelps", "Spitz", "Thorpe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known as 'The Great One' in hockey?",
+      "answers": ["Gretzky", "Lemieux", "Orr"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the leading run-scorer in cricket?",
+      "answers": ["Tendulkar", "Ponting", "Kallis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the 'Swiss Maestro' in tennis?",
+      "answers": ["Federer", "Nadal", "Wawrinka"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the first female gymnast to score a perfect 10?",
+      "answers": ["Comaneci", "Biles", "Miller"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known as the 'Iron Mike' in boxing?",
+      "answers": ["Tyson", "Ali", "Frazier"],
       "correctAnswerIndex": 0
     }
   ]
